@@ -1,4 +1,7 @@
-
+<a href="https://github.com/misacardi">
+  <img src="https://i.pinimg.com/564x/42/84/71/428471d4f6c147b88ee7c2cff3efc4cb.jpg" alt="
+      backgrounnd" align="center"/>
+</a>
 
 <h1 align="left">:wave: Hello there! I'm Bohdan Sas</h1>
 
