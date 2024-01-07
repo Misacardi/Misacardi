@@ -157,18 +157,6 @@
 
 
 
-> Other
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#Bohdan-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
-      </a>
-      <br>electron
-    </td>
-  </tr> 
-</table>
 
 ## ☄️ Contact
 
