@@ -88,12 +88,6 @@
       </a>
       <br>prettier
     </td>
-        <td align="center" width="110" height="90">
-      <a href="#bohdan-stack">
-        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
-      </a>
-      <br>stylelint
-    </td>
   </tr> 
 </table>
 
